@@ -7,8 +7,8 @@
 
 ### Wie erstelle ich ein Issue ?
 
-#### 1.  Drücke auf 'New issue'
-![image](https://user-images.githubusercontent.com/22274658/177620304-d821bda1-f9ec-4135-88f6-cacb233d1dd1.png)
+#### 1.  Drücke auf 'Neues Issue erstellen'
+[![Neues Issue - Erstellen](https://img.shields.io/badge/Neues_Issue-Erstellen-2ea44f?logo=https%3A%2F%2Fgithub.com%2FBetriebsberater%2FHelpDesk%2Fissues%2Fnew)](https://github.com/Betriebsberater/HelpDesk/issues/new)
 
 #### 2.  Fülle alle Felder gründlich aus
 ![image](https://user-images.githubusercontent.com/22274658/177620228-8bbd72a8-a0db-419e-b7ae-c61eaec2dace.png)
